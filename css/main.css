@@ -83,3 +83,39 @@ aside .well {
 }
 
 
+
+.jumbotron {
+    background-color:transparent;
+    text-align: center;
+    padding:150px inherit;
+}
+
+.wood {
+    background: url('../img/wood.jpg');
+}
+
+.wood h1 {
+    color:white;
+    text-shadow: 2px 3px #333;
+}
+
+h1 {
+    
+}
+
+.wood .jumbotron {
+    background-color: rgba(255,255,255,0.0);
+}
+
+.person {
+    text-align:center;
+}
+
+.contact {
+    background-color: black;
+    color: white;
+}
+
+section {
+    padding:100px inherit;
+}
