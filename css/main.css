@@ -1,0 +1,85 @@
+body {
+/*	font-family: 'Quicksand', sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
+	font-size:16px;
+	line-height:24px;
+}
+
+.banner {
+    height: 395px;
+    background:url("../img/header.jpg") center repeat-x;
+    position: relative;
+}
+
+.banner .logo {
+    
+}
+
+.banner img {
+    display:block;
+    position:absolute;
+    bottom:-200px;
+    -webkit-transition: all 0.4s ease-out;
+   -moz-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+     -o-transition: all 0.4s ease-out;
+        transition: all 0.4s ease-out;
+}
+
+header {
+	margin-bottom:2em;
+}
+
+h1 {
+	margin-bottom:30px;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Sanchez', serif;
+}
+
+header img {
+	margin-right:-20px;
+	width:100%;
+	max-width:200px;
+}
+
+pre {
+	font-family: 'Source Code Pro', sans-serif;
+}
+
+aside .well {
+	border:none;
+	border-radius:0;
+	box-shadow:none;
+	-webkit-box-shadow:none;
+}
+
+.container {
+	padding-top:10px;
+}
+
+.wrapper {
+	width:70%;
+	margin:0 auto;
+	margin-bottom:400px; 
+	background-color:#fff;
+}
+
+.nav-container {
+    padding-top:10px;
+}
+
+.logo {
+    //position:fixed;
+}
+
+.nav {
+    font-weight:bold;
+}
+
+.nav a {
+    color:c1d7e5;
+}
+
+
